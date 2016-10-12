@@ -4,9 +4,29 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+#news{
+  color: white
+}
+
+#news{
+  background-color: #222222;
+}
+
+#headshots{
+  background-image: url('../img/grey-glitter.jpg');
+}
+
 #download-resume-button {
   margin: 25px;
 }
+
+#contact {
+  background-image: url('../img/grey-glitter.jpg');
+}
+
+/*#headshots {
+  background-color:	#C0C0C0;
+}*/
 
 .header-spacing {
   margin-top: 350px;
